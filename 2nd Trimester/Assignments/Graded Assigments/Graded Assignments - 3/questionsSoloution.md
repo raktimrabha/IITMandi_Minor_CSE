@@ -482,19 +482,19 @@ You need to write a program that finds the power of each tower.
 ---
 
 ### Sample Input 1:
-```
+``
 2
 7
 100 80 60 70 60 75 85
 5
 3 5 0 9 8
-```
+``
 
 ### Sample Output 1:
-```
+``
 1 1 1 2 1 4 6
 1 2 1 4 1
-```
+``
 
 ---
 
@@ -715,22 +715,22 @@ For each test case, print `N` strings, each in a new line, denoting the final so
 ---
 
 ### Sample Input 1:
-```
+``
 1
 4
 aeaed
 fha
 cdf
 ba
-```
+``
 
 ### Sample Output 1:
-```
+``
 ba
 fha
 cdf
 aeaed
-```
+``
 
 ---
 
