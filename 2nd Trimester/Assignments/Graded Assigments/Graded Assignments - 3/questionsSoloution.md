@@ -882,6 +882,8 @@ For a `10 x 10` chessboard:
 
 The knight can move to any of the squares marked as `X` in 1 move.
 
+![Knight Moves](./q20_image.png)
+
 ---
 
 ### Input Description
